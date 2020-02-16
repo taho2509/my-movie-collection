@@ -1,0 +1,14 @@
+.SearchBar {
+  width: 90%;
+  border-radius: 50px;
+  border: 2px solid var(--darker);
+  padding: 0px 10px;
+  height: 32px;
+  background-color: var(--white);
+  font-size: medium;
+}
+
+.BarContainer {
+  text-align: center;
+  padding: 10px;
+}
